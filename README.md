@@ -5,5 +5,9 @@ Its a app which fecth data from api and show the coin list and there details. Th
 There would be better ui and more feature like defi section and latest news about the cyrpto world and many more.
 
 # Tech used
-  #### Framework : Navigation component, Jetpack Compose
-  #
+  #### Framework : Navigation component
+  #### UI : Jetpack Compose
+  #### Architecture :  MVVM, Clean Architecture, Use of Use Cases
+  #### API Library :  Retrofit
+  #### Dependency Injection: Dagger Hilt
+  #### Language: Kotlin
